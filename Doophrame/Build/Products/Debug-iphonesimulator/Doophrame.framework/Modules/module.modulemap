@@ -1,0 +1,11 @@
+framework module Doophrame {
+  umbrella header "Doophrame.h"
+
+  export *
+  module * { export * }
+}
+
+module Doophrame.Swift {
+    header "Doophrame-Swift.h"
+    requires objc
+}

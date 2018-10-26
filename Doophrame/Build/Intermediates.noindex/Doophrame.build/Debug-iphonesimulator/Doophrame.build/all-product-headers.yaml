@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/quinnfagan/Documents/Repos/Doophie/Doophrameios/Doophrame/Build/Products/Debug-iphonesimulator/Doophrame.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Doophrame-Swift.h",
+          'external-contents': "/Users/quinnfagan/Documents/Repos/Doophie/Doophrameios/Doophrame/Build/Products/Debug-iphonesimulator/Doophrame.framework/Headers/Doophrame-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Doophrame.h",
+          'external-contents': "/Users/quinnfagan/Documents/Repos/Doophie/Doophrameios/Doophrame/Doophrame/Doophrame.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/quinnfagan/Documents/Repos/Doophie/Doophrameios/Doophrame/Build/Products/Debug-iphonesimulator/Doophrame.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/quinnfagan/Documents/Repos/Doophie/Doophrameios/Doophrame/Build/Intermediates.noindex/Doophrame.build/Debug-iphonesimulator/Doophrame.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

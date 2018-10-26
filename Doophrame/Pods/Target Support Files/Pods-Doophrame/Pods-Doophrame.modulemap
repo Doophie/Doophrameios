@@ -1,0 +1,6 @@
+framework module Pods_Doophrame {
+  umbrella header "Pods-Doophrame-umbrella.h"
+
+  export *
+  module * { export * }
+}

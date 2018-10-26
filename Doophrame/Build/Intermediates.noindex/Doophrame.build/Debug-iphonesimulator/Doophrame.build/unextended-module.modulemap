@@ -1,0 +1,10 @@
+framework module Doophrame {
+  umbrella header "Doophrame.h"
+
+  export *
+  module * { export * }
+}
+
+module Doophrame.__Swift {
+    exclude header "Doophrame-Swift.h"
+}
