@@ -10,7 +10,7 @@ import Foundation
 
 public protocol DoophieWorker {
     
-    var traveller: DoophieTravellable? {get set}
+    var traveller: DoophieTravellable? { get set }
     
     func start()
     

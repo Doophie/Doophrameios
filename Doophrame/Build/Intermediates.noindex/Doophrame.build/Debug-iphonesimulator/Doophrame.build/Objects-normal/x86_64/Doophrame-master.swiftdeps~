@@ -1,7 +1,7 @@
 version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
 options: "0f6251d72ee2fa0e0b8c81bf94c079d2"
-build_time: [1540520242, 19878000]
+build_time: [1540521515, 903334000]
 inputs:
   "/Users/quinnfagan/Documents/Repos/Doophie/Doophrameios/Doophrame/Doophrame/DoophieActivity/DoophieWorker.swift": [1540517209, 0]
-  "/Users/quinnfagan/Documents/Repos/Doophie/Doophrameios/Doophrame/Doophrame/DoophieActivity/DoophieTraveller.swift": [1540519909, 0]
+  "/Users/quinnfagan/Documents/Repos/Doophie/Doophrameios/Doophrame/Doophrame/DoophieActivity/DoophieTraveller.swift": [1540520635, 0]
   "/Users/quinnfagan/Documents/Repos/Doophie/Doophrameios/Doophrame/Doophrame/DoophieActivity/DoophViewController.swift": [1540517051, 0]
