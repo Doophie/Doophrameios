@@ -10,11 +10,11 @@ Pod::Spec.new do |spec|
 
   spec.license      = "Apache-2.0"
   
-  spec.author             = { "qfagan" => "quinn@doophie.ca" }
+  spec.author       = { "qfagan" => "quinn@doophie.ca" }
 
   spec.platform     = :ios, "12.0"
 
-  spec.source       = { :git => "http://github.com/Doophie/Doophrameios.git", :branch => "master", :tag => "#{spec.version}" }
-  spec.source_files  = "Doophrame/Doophrame/**/*.{h,swift}"
+  spec.source       = { :git => "https://github.com/Doophie/Doophrameios.git", :branch => "master", :tag => "#{spec.version}" }
+  spec.source_files = "Doophrame/Doophrame/**/*.{h,swift}"
 
 end
