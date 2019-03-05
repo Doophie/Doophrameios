@@ -14,7 +14,7 @@ Pod::Spec.new do |spec|
 
   spec.platform     = :ios, "12.0"
 
-  spec.source       = { :git => "http://github.com/Doophie/Doophrameios.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "http://github.com/Doophie/Doophrameios.git", :branch => "master", :tag => "#{spec.version}" }
   spec.source_files  = "Doophrame/Doophrame/**/*.{h,swift}"
 
 end
